@@ -1,7 +1,7 @@
 [build]
   base = "religion-blog"
   command = "npm run build"
-  publish = "religion-blog/dist"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"
